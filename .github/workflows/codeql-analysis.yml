@@ -76,5 +76,4 @@ jobs:
     issue-message: # optional
     # Comment to post on an individual's first pull request
     pr-message: # optional  
-    
  run: actions/first-interaction@v1.1.0
