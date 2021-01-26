@@ -19,4 +19,4 @@ This Repo is In Process to Released :)
 
 ## SECURITY Repository
 
-[SECURITY Repo]()
+[SECURITY](https://github.com/X-MEGA-X/XMX-MEGA-XMX/blob/master/SECURITY.md)
