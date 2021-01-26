@@ -6,6 +6,6 @@
 version: 2.0
 updates:
   - package-ecosystem: "github-actions" # See documentation for possible values
-    directory: "/" # Location of package manifests
+    directory: "https://github.com/X-MEGA-X/XMX-MEGA-XMX/tree/master/.github/dependency%20graph/manifest%20dependency" # Location of package manifests
     schedule:
       interval: "daily"
