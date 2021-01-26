@@ -11,14 +11,21 @@ This Repo is In Process to Released :)
 
 ******************************
 
-## LICENSE
+## LICENSE in Repository
 
 [MIT LICENSE](https://github.com/X-MEGA-X/XMX-MEGA-XMX/blob/master/LICENSE)
 
 ******************************
 
-## SECURITY Repository
+## SECURITY in Repository
 
-This Security is for Compatible Versions in this Repository
+### In this Repository there is Security : 
+1. Security Policy
+2. Code Scanning Alert
+  - In the workflows Folder there are have 2 Code Scanning Alert and that is
+    + codeql-analysis.yml
+    + ossar-analysis.yml
 
-[SECURITY Compatible Versions](https://github.com/X-MEGA-X/XMX-MEGA-XMX/blob/master/SECURITY.md)
+[SECURITY Policy](https://github.com/X-MEGA-X/XMX-MEGA-XMX/blob/master/SECURITY.md)
+[codeql-analysis.yml](https://github.com/X-MEGA-X/XMX-MEGA-XMX/blob/master/.github/workflows/codeql-analysis.yml)
+[ossar-analysis.yml](https://github.com/X-MEGA-X/XMX-MEGA-XMX/blob/master/.github/workflows/ossar-analysis.yml)
