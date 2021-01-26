@@ -19,6 +19,6 @@ This Repo is In Process to Released :)
 
 ## SECURITY Repository
 
-This Security is Compatible Version for this Repository
+This Security is for Compatible Versions in this Repository
 
-[SECURITY](https://github.com/X-MEGA-X/XMX-MEGA-XMX/blob/master/SECURITY.md)
+[SECURITY Compatible Versions](https://github.com/X-MEGA-X/XMX-MEGA-XMX/blob/master/SECURITY.md)
