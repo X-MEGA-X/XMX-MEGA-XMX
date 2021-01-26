@@ -27,5 +27,5 @@ This Repo is In Process to Released :)
     + ossar-analysis.yml
 
 [SECURITY Policy](https://github.com/X-MEGA-X/XMX-MEGA-XMX/blob/master/SECURITY.md)
-[codeql-analysis.yml](https://github.com/X-MEGA-X/XMX-MEGA-XMX/blob/master/.github/workflows/codeql-analysis.yml)
-[ossar-analysis.yml](https://github.com/X-MEGA-X/XMX-MEGA-XMX/blob/master/.github/workflows/ossar-analysis.yml)
+[![codeql-analysis.yml](https://github.com/X-MEGA-X/XMX-MEGA-XMX/blob/master/.github/workflows/codeql-analysis.yml)]
+[![ossar-analysis.yml](https://github.com/X-MEGA-X/XMX-MEGA-XMX/blob/master/.github/workflows/ossar-analysis.yml)]
