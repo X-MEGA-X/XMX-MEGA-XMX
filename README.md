@@ -22,5 +22,6 @@ Please See The License
 ## SECURITY
 
 ### In this Repository there is Security : 
-1. [Security Policy](https://github.com/X-MEGA-X/XMX-MEGA-XMX/blob/master/SECURITY.md)
-2. Security Advisories
+- [Security Policy](https://github.com/X-MEGA-X/XMX-MEGA-XMX/blob/master/SECURITY.md)
+- Security Advisories
+- Dependabot Alert
