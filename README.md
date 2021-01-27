@@ -23,4 +23,4 @@ Please See The License
 
 ### In this Repository there is Security : 
 1. [Security Policy](https://github.com/X-MEGA-X/XMX-MEGA-XMX/blob/master/SECURITY.md)
-2. Security 
+2. Security Advisories
