@@ -23,9 +23,9 @@ This Repo is In Process to Released :)
 1. Security Policy
 2. Code Scanning Alert
   - In the workflows Folder there are have 2 Code Scanning Alert and that is
-    + codeql-analysis.yml
-    + ossar-analysis.yml
+    + codeql-analysis.yml [codeql-analysis.yml](https://github.com/X-MEGA-X/XMX-MEGA-XMX/blob/master/.github/workflows/codeql-analysis.yml)
+    + ossar-analysis.yml [ossar-analysis.yml](https://github.com/X-MEGA-X/XMX-MEGA-XMX/blob/master/.github/workflows/ossar-analysis.yml)
+
 
 [SECURITY Policy](https://github.com/X-MEGA-X/XMX-MEGA-XMX/blob/master/SECURITY.md)
-[![codeql-analysis.yml](https://github.com/X-MEGA-X/XMX-MEGA-XMX/blob/master/.github/workflows/codeql-analysis.yml)]
-[![ossar-analysis.yml](https://github.com/X-MEGA-X/XMX-MEGA-XMX/blob/master/.github/workflows/ossar-analysis.yml)]
+
