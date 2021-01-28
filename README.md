@@ -1,6 +1,6 @@
 # XMX-MEGA-XMX
-v2.0.1 in This Organization
-( v1.0.0 is Private Repository )
+- **v2.0.1 in This Organization**
+- **( v1.0.0 is Private Repository )**
 
 
 
@@ -8,20 +8,20 @@ v2.0.1 in This Organization
 
 ## This Repository in Progress
 
-This Repo is In Process to Released :)
+**This Repo is In Process to Released :)**
 
 ******************************
 
 ## LICENSE
 
-Please See The License
+**Please See The License**
 - [MIT LICENSE](https://github.com/X-MEGA-X/XMX-MEGA-XMX/blob/master/LICENSE)
 
 ******************************
 
 ## SECURITY
 
-Security is for Securing this Repository
+**Security is for Securing this Repository**
 
 ### In this Repository there is Security : 
 
@@ -33,7 +33,7 @@ Security is for Securing this Repository
 
 ## Github Pages
 
-Github Pages is for Website this Repository in Organization X-MEGA-X
+**Github Pages is for Website this Repository in Organization X-MEGA-X**
 - [XMX-MEGA-XMX Pages](https://x-mega-x.github.io/XMX-MEGA-XMX/)
 
 ****************************** 
