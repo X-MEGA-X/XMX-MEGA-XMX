@@ -26,10 +26,12 @@
 ### In this Repository there is Security : 
 
 - [Security Policy](https://github.com/X-MEGA-X/XMX-MEGA-XMX/blob/master/SECURITY.md)
-- Security Advisories
-- Dependabot Alert
+- [Security Advisories]
+- [Dependabot Alert] :
+  + [dependabot-1.yml](https://github.com/X-MEGA-X/XMX-MEGA-XMX/blob/master/.github/dependency%20graph/dependabot-1.yml)
+  + [dependabot-2.yml](https://github.com/X-MEGA-X/XMX-MEGA-XMX/blob/master/.github/dependency%20graph/dependabot-2.yml)
 
-****************************** 
+******************************
 
 ## Github Pages
 
@@ -41,5 +43,3 @@
 ## RELEASE TAG
 
 - [Index of Website TAG v1.0.1](https://github.com/X-MEGA-X/XMX-MEGA-XMX/releases/tag/v1.0.1)
-
-******************************
