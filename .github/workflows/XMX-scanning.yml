@@ -7,7 +7,7 @@ jobs:
     runs-on: ${{ matrix.os }}
     strategy:
       matrix:
-       os: [ windows-8.1 ]
+       os: [ windows-latest ]
     steps:
       - uses: actions/checkout@v1
       - uses: ./dependency graph
