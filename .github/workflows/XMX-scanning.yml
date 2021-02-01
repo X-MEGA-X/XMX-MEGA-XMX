@@ -10,6 +10,6 @@ jobs:
        os: [ windows-latest ]
     steps:
       - uses: actions/checkout@v1
-      - uses: ./dependency graph
+      - uses: ./.github/dependency graph
         with:
           MY_NAME: "Arsyad07-ByArsyad06"
