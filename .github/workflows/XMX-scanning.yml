@@ -1,0 +1,12 @@
+# Creating XMX-scanning.yml
+name: XMX Scanning Action
+on: push
+jobs:
+  build:
+    name: XMX Scanning
+    runs-on: windows-8.1
+    steps:
+      - uses: actions/checkout@v1
+      - uses: ./dependency graph
+        with:
+          MY_NAME: "Arsyad07-ByArsyad06"
