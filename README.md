@@ -12,7 +12,7 @@
 
 **In this Repository there are 2 branches**
 - Branch-1-of-Master-Branch for Github Action
-- Branch-2-of-Mater-Branch for Github Pages and Programs
+- Branch-2-of-Master-Branch for Github Pages and Programs
 
 ******************************
 
