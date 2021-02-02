@@ -6,4 +6,3 @@
 - Folder : action-xmx
   + File : Dockerfile
   + File : entrypoint.sh
-
