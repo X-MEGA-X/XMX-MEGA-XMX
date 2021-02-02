@@ -13,7 +13,7 @@
 **In this Repository there are 2 branches**
 - Branch-1-of-Master-Branch for Github Action
   + ( This Action is for Special Action )
-      ~ ( That a self-made stunt )
+      -> ( That a self-made stunt )
 - Branch-2-of-Master-Branch for Github Pages and Programs
 
 ******************************
