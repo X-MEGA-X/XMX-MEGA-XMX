@@ -14,7 +14,7 @@ on:
 
 jobs:
   njsscan:
-    runs-on: windows-8.1
+    runs-on: windows-latest
     name: njsscan code scanning
     steps:
     - name: Checkout the code
