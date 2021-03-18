@@ -33,7 +33,7 @@
 
 ### In this Repository there is Security : 
 
-- [![Security Policy](https://img.shields.io/static/v1?label=Security%20Policy&message=Go%20to%20Folder&color=green)](https://github.com/X-MEGA-X/XMX-MEGA-XMX/blob/master/SECURITY.md)
+- [![Security Policy](https://img.shields.io/static/v1?label=Security%20Policy&message=Go%20to%20File&color=green)](https://github.com/X-MEGA-X/XMX-MEGA-XMX/blob/master/SECURITY.md)
 - Security Advisories : 
   + ( There is no Draft Security Advisories )
 - [![Dependabot Alert](https://img.shields.io/static/v1?label=Dependabot%20Alert&message=Go%20to%20Folder&color=green)](https://github.com/X-MEGA-X/XMX-MEGA-XMX/tree/master/.github/dependency%20graph) : 
