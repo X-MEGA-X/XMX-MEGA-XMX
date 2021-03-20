@@ -51,4 +51,6 @@
 
 ## RELEASE TAG
 
-- [![Index of Website TAG v1.0.1](https://img.shields.io/static/v1?label=Index%20of%20Website%20TAG%20v1.0.1&message=Alpha&color=green)](https://github.com/X-MEGA-X/XMX-MEGA-XMX/releases/tag/v1.0.1)
+- [![Index of Website TAG v1.0.1](https://img.shields.io/static/v1?label=Index%20of%20Website%20TAG%20v1.0.1&message=Alpha-1&color=green)](https://github.com/X-MEGA-X/XMX-MEGA-XMX/releases/tag/v1.0.1)
+- [![Index of Website TAG v1.1.2](https://img.shields.io/static/v1?label=Index%20of%20Website%20TAG%20v1.1.2&message=Alpha-2&color=green)](https://github.com/X-MEGA-X/XMX-MEGA-XMX/releases/tag/v1.1.2)
+- [![Index of Website TAG v1.1.3](https://img.shields.io/static/v1?label=Index%20of%20Website%20TAG%20v1.1.3&message=Alpha-3&color=green)](https://github.com/X-MEGA-X/XMX-MEGA-XMX/releases/tag/v1.1.3)
